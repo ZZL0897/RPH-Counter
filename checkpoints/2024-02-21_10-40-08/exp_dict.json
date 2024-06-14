@@ -1,0 +1,15 @@
+{
+    "batch_size": 1,
+    "dataset": {
+        "name": "box_data",
+        "transform": "rgb_normalize"
+    },
+    "dataset_size": {
+        "train": "all",
+        "val": "all"
+    },
+    "lr": 1e-05,
+    "max_epoch": 80,
+    "model": "fcn_resnet_myfpn_s16",
+    "optimizer": "adam"
+}

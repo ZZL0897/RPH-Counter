@@ -1,0 +1,522 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "PH",
+      "points": [
+        [
+          592,
+          451
+        ],
+        [
+          615,
+          495
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          616,
+          206
+        ],
+        [
+          639,
+          231
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          837,
+          206
+        ],
+        [
+          859,
+          235
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          751,
+          262
+        ],
+        [
+          775,
+          295
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          605,
+          417
+        ],
+        [
+          624,
+          451
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          629,
+          543
+        ],
+        [
+          643,
+          560
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          524,
+          131
+        ],
+        [
+          538,
+          155
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          604,
+          513
+        ],
+        [
+          624,
+          536
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          449,
+          340
+        ],
+        [
+          478,
+          352
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          752,
+          451
+        ],
+        [
+          765,
+          467
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          768,
+          1053
+        ],
+        [
+          791,
+          1084
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          735,
+          925
+        ],
+        [
+          779,
+          975
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          779,
+          768
+        ],
+        [
+          805,
+          804
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          754,
+          859
+        ],
+        [
+          772,
+          887
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          735,
+          1017
+        ],
+        [
+          759,
+          1047
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          770,
+          1102
+        ],
+        [
+          791,
+          1132
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          637,
+          589
+        ],
+        [
+          653,
+          611
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          716,
+          788
+        ],
+        [
+          760,
+          843
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          655,
+          622
+        ],
+        [
+          671,
+          646
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          798,
+          917
+        ],
+        [
+          816,
+          943
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          711,
+          621
+        ],
+        [
+          745,
+          662
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          694,
+          758
+        ],
+        [
+          711,
+          777
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          719,
+          886
+        ],
+        [
+          740,
+          908
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          670,
+          721
+        ],
+        [
+          694,
+          745
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          830,
+          637
+        ],
+        [
+          848,
+          658
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          744,
+          1103
+        ],
+        [
+          755,
+          1122
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          713,
+          577
+        ],
+        [
+          743,
+          604
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          657,
+          747
+        ],
+        [
+          681,
+          778
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          780,
+          1138
+        ],
+        [
+          792,
+          1152
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          678,
+          611
+        ],
+        [
+          700,
+          638
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          644,
+          655
+        ],
+        [
+          666,
+          683
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          443,
+          885
+        ],
+        [
+          454,
+          901
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "IMG20230913124331_rectangle_0.jpg",
+  "imageData": null,
+  "imageHeight": 1152,
+  "imageWidth": 864
+}

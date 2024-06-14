@@ -1,0 +1,394 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "PH",
+      "points": [
+        [
+          704,
+          861
+        ],
+        [
+          777,
+          912
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          317,
+          903
+        ],
+        [
+          375,
+          943
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          408,
+          929
+        ],
+        [
+          468,
+          965
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          781,
+          849
+        ],
+        [
+          822,
+          878
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          399,
+          836
+        ],
+        [
+          506,
+          877
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          578,
+          832
+        ],
+        [
+          677,
+          870
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          473,
+          893
+        ],
+        [
+          534,
+          930
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          484,
+          949
+        ],
+        [
+          528,
+          979
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          506,
+          981
+        ],
+        [
+          564,
+          1020
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          604,
+          973
+        ],
+        [
+          656,
+          1000
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          630,
+          931
+        ],
+        [
+          689,
+          968
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          673,
+          963
+        ],
+        [
+          745,
+          997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          754,
+          921
+        ],
+        [
+          820,
+          962
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          843,
+          903
+        ],
+        [
+          864,
+          928
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          823,
+          950
+        ],
+        [
+          864,
+          985
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          0,
+          848
+        ],
+        [
+          90,
+          895
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          88,
+          842
+        ],
+        [
+          174,
+          888
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          184,
+          883
+        ],
+        [
+          244,
+          920
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          16,
+          924
+        ],
+        [
+          96,
+          972
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          88,
+          1015
+        ],
+        [
+          183,
+          1054
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          317,
+          1000
+        ],
+        [
+          354,
+          1023
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          401,
+          991
+        ],
+        [
+          451,
+          1020
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          812,
+          815
+        ],
+        [
+          864,
+          853
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PH",
+      "points": [
+        [
+          731,
+          842
+        ],
+        [
+          774,
+          866
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "IMG_20230913_095145_rectangle_0.jpg",
+  "imageData": null,
+  "imageHeight": 1152,
+  "imageWidth": 864
+}
