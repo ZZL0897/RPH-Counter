@@ -23,3 +23,7 @@ pip install -r requirements.txt
 
 ## Dataset
 The DataLoader loads JSON annotation files labeled by labelme or anylabeling. If you want to test your own data, refer to the directory structure of `test_data` in the `./data` folder.
+
+## Results
+![Results](https://github.com/ZZL0897/RPH-Counter/blob/main/checkpoints/2024-02-21_10-40-08/vis/o_pred/IMG_20230912_105844.jpg)
+![Results](https://github.com/ZZL0897/RPH-Counter/blob/main/checkpoints/2024-02-21_10-40-08/vis/o_pred/IMG_20230913_100043.jpg)
