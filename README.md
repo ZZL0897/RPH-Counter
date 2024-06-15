@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
     Or run the following command: 
     ```bash
-    python test.py --datadir ./data --model fcn_resnet_safpn_s16 --model_path ./checkpoints/2024-02-21_10-40-08/model_best.pth
+    python test.py --datadir ./data --model fcn_resnet_safpn_s16 --model_path ./checkpoints/2024-02-21_10-40-08/model_best_f1.pth
     ```
     After the run completes, the detection results will be saved in `./checkpoints/2024-02-21_10-40-08/res.json`, and visualization results will be saved in the `vis` folder.
 
