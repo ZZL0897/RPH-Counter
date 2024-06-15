@@ -15,9 +15,9 @@ pip install -r requirements.txt
 ```
 
 ## Quick Run
-### Testing:
+### Testing & Visualization:
 
-1. Run `test.py`. 
+1. Run `test.py`.
 
     Or run the following command: 
     ```bash
@@ -25,8 +25,10 @@ pip install -r requirements.txt
     ```
     After the run completes, the detection results will be saved in `./checkpoints/2024-02-21_10-40-08/res.json`, and visualization results will be saved in the `vis` folder.
 
-### Visualization:
-2. Run `./tools/read_my_result_merge_vis.py`. This script will read the detection results from step 1 and restore the split images back to the original images. The visualization results will be saved in the `vis` folder.
+
+2. Run `./tools/read_my_result_merge_vis.py`. 
+
+    This script will read the detection results from step 1 and restore the split images back to the original images. The visualization results will be saved in the `vis` folder.
 
 ## Dataset
 The DataLoader loads JSON annotation files labeled by labelme or anylabeling. If you want to test your own data, refer to the directory structure of `test_data` in the `./data` folder.
