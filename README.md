@@ -1,6 +1,6 @@
 # RPH-Counter
 
-**RPH-Counter: A Fully Convolutional Network (FCN) based Model for Accurate Field Rice Planthopper Detection and Counting**
+**RPH-Counter: A Fully Convolutional Network-Based Model for Precise Field Detection and Counting of Rice Planthoppers**
 
 ## Preview
 
