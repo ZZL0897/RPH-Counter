@@ -1,12 +1,12 @@
 # RPH-Counter
 
-**RPH-Counter: Field Detection and Counting of Rice Planthoppers Using a Fully Convolutional Network with Object-Level Supervision**
+**[RPH-Counter: Field Detection and Counting of Rice Planthoppers Using a Fully Convolutional Network with Object-Level Supervision](https://pan.quark.cn/s/2399504ff403)**
+
+Zhang Z, Zhan W, Sun K, et al. (2024). RPH-Counter: Field Detection and Counting of Rice Planthoppers Using a Fully Convolutional Network with Object-Level Supervision. Computers and Electronics in Agriculture, 225, 109242.
 
 ## Preview
 
-We have open-sourced the test code for RPH-Counter and provided some visualization examples. 
-
-The training code with Object Counting Loss will be released after our paper is accepted. 
+We have open-sourced the test code for RPH-Counter and provided some visualization examples.
 
 Test samples are stored in the `./data` folder. The model can be downloaded from [this link](https://pan.quark.cn/s/2399504ff403). Place the model in the `./checkpoints/2024-02-21_10-40-08` folder. Visualization results will be saved in the `vis` folder.
 
